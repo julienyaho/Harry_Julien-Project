@@ -16,7 +16,8 @@ Semantic Web and Linked Data.
 * To find locations of Primary and Secondary Schools in south Dublin.
 
 ## References
-* https://data.gov.ie/data
+* Dataset 1: https://data.gov.ie/dataset/primary-schools
+* Dataset 2: https://data.gov.ie/dataset/secondary-school-locations
 
 ## Note
 * We will the updating this Readme.md file as we go along with our project.
