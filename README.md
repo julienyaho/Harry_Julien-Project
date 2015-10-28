@@ -8,6 +8,8 @@ Semantic Web and Linked Data.
 
 ## Datasets used
 * Primary and Secondary Schools Locations.
+* Dataset 1: https://data.gov.ie/dataset/primary-schools
+* Dataset 2: https://data.gov.ie/dataset/secondary-school-locations
 
 ## How to Query the API
 * Get, Insert and Delect.
@@ -16,8 +18,7 @@ Semantic Web and Linked Data.
 * To find locations of Primary and Secondary Schools in south Dublin.
 
 ## References
-* Dataset 1: https://data.gov.ie/dataset/primary-schools
-* Dataset 2: https://data.gov.ie/dataset/secondary-school-locations
+
 
 ## Note
 * We will the updating this Readme.md file as we go along with our project.
