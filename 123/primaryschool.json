@@ -1,0 +1,822 @@
+[
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT ANDREWS NATIONAL SCHOOL",
+    "Address1":"CHAPEL HILL",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":703865.885,
+    "ITMNorth":735586.085
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"GAELSCOIL NAOMH PADRAIG",
+    "Address1":"CASTLE ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":704161.942,
+    "ITMNorth":734519.72
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARK'S SENIOR NATIONAL SCHOOL",
+    "Address1":"MAPLEWOOD ROAD",
+    "Address2":"SPRINGFIELD",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":707529.837,
+    "ITMNorth":727521.794
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL NASUINTA NAOMH IOSAF",
+    "Address1":"TYMON ROAD",
+    "Address2":"TYMON NORTH",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710623.798,
+    "ITMNorth":728496.385
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL AN CHOROIN MHUIRE",
+    "Address1":"OLD COURT AVENUE",
+    "Address2":"BALLYCULLEN",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":710140.331,
+    "ITMNorth":726039.124
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SAINT JOHN THE EVANGILIST NATIONAL SCHOOL",
+    "Address1":"STATION ROAD",
+    "Address2":"ADAMSTOWN CASTLE",
+    "Address3":"LUCAN",
+    "Address4":"CO. DUBLIN",
+    "ITMEast":702506.316,
+    "ITMNorth":732889.334
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL SANTAIN",
+    "Address1":"AVONMORE ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710189.535,
+    "ITMNorth":727255.071
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT DAMIAN'S NATIONAL SCHOOL",
+    "Address1":"CHERRYFIELD DRIVE",
+    "Address2":"WALKINSTOWN",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":711859.41,
+    "ITMNorth":730643.416
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"EDMONDSTOWN SCHOOL",
+    "Address1":"EDMONDSTOWN ROAD",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":713433.653,
+    "ITMNorth":725620.954
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARK'S JUNIOR NATIONAL SCHOOL",
+    "Address1":"MAPLEWOOD ROAD",
+    "Address2":"SPRINGFIELD",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":707559.434,
+    "ITMNorth":727506.284
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT KILIANS SENIOR NATIONAL SCHOOL",
+    "Address1":"SYLVAN DRIVE",
+    "Address2":"KINGSWOOD",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":708610.374,
+    "ITMNorth":729683.776
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL ?INE",
+    "Address1":"SCOIL ?INE",
+    "Address2":"NEW ROAD",
+    "Address3":"CLONDALKIN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":707124.836,
+    "ITMNorth":730854.791
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT BRIGID'S JUNIOR NATIONAL SCHOOL",
+    "Address1":"BROOKFIELD ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":706395.465,
+    "ITMNorth":727503.533
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL NANO NAGLE",
+    "Address1":"BAWNOGUE ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":705691.559,
+    "ITMNorth":731831.091
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"GAELSCOIL CHLUAIN DOLCA?N",
+    "Address1":"GAELSCOIL CHLUAIN DOLCA?N",
+    "Address2":"OLD NANGOR ROAD",
+    "Address3":"CLONDALKIN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":706435.178,
+    "ITMNorth":731568.878
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARY'S NATIONAL SCHOOL",
+    "Address1":"GREENHILLS ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":709521.015,
+    "ITMNorth":727934.995
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL IOSA TEACH MOTHAIN THUAIDH",
+    "Address1":"TYMON NORTH ROAD",
+    "Address2":"TYMON NORTH",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710167.325,
+    "ITMNorth":728891.93
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SAINT PIUS X BOYS NATIONAL SCHOOL",
+    "Address1":"FORTFIELD PARK",
+    "Address2":"TERENURE",
+    "Address3":"DUBLIN 6W",
+    "Address4":null,
+    "ITMEast":712945.049,
+    "ITMNorth":729392.561
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL CHRONAIN",
+    "Address1":"MAIN STREET",
+    "Address2":"RATHCOOLE",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":702178.68,
+    "ITMNorth":726813.519
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL NAISUNTA BRIDE",
+    "Address1":"THE OVAL",
+    "Address2":"PALMERSTOWN",
+    "Address3":"DUBLIN 20",
+    "Address4":null,
+    "ITMEast":708542.666,
+    "ITMNorth":734782.369
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT PETER'S NATIONAL SCHOOL",
+    "Address1":"LIMEKILN ROAD",
+    "Address2":"WALKINSTOWN",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":711409.827,
+    "ITMNorth":729611.163
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL CHOLMCILLE",
+    "Address1":"MOUNTAIN PARK",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":709555.847,
+    "ITMNorth":727422.197
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARYS BOYS NATIONAL SCHOOL",
+    "Address1":"CHAPEL HILL",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":703596.854,
+    "ITMNorth":735504.452
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MAELRUAN'S NATIONAL SCHOOL",
+    "Address1":"KILCLARE AVENUE",
+    "Address2":"JOBSTOWN",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":707217.989,
+    "ITMNorth":727000.725
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT RONANS",
+    "Address1":"SAINT CUTHBERTS ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":704841.382,
+    "ITMNorth":731487.68
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT AIDAN'S NATIONAL SCHOOL",
+    "Address1":"BROOKFIELD ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":706374.73,
+    "ITMNorth":727418.214
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"GREENHILLS COLLEGE PRIMARY SCHOOL",
+    "Address1":"LIMEKILN AVENUE",
+    "Address2":"WALKINSTOWN",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":710954.771,
+    "ITMNorth":729839.084
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL MHUIRE",
+    "Address1":"GLENMORE COURT",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":714084.982,
+    "ITMNorth":726739.273
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"BISHOP GALVIN NATIONAL SCHOOL",
+    "Address1":"ROSSMORE ROAD",
+    "Address2":"TEMPLEOGUE",
+    "Address3":"DUBLIN 6W",
+    "Address4":null,
+    "ITMEast":712078.087,
+    "ITMNorth":728848.778
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARY'S NATIONAL SCHOOL",
+    "Address1":"BOHERBOY",
+    "Address2":"SAGGART",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":703762.587,
+    "ITMNorth":726506.869
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"HOLY FAMILY NATIONAL SCHOOL",
+    "Address1":"JOHNSTOWN ROAD",
+    "Address2":"RATHCOOLE",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":701652.761,
+    "ITMNorth":726628.887
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT KILIANS JUNIOR NATIONAL SCHOOL",
+    "Address1":"SYLVAN DRIVE",
+    "Address2":"KINGSWOOD",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":708665.148,
+    "ITMNorth":729751.615
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARY'S SENIOR SCHOOL",
+    "Address1":"COLLINSTOWN ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706788.971,
+    "ITMNorth":733716.714
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT KILLIAN'S SCHOOL",
+    "Address1":"SAINT KILLIAN'S SCHOOL",
+    "Address2":"ROBINHOOD ROAD",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":710199.043,
+    "ITMNorth":731813.954
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT PETER'S APOSTLE SENIOR SCHOOL",
+    "Address1":"SAINT PETER'S APOSTLE SENIOR SCHOOL",
+    "Address2":"NEILSTOWN ROAD",
+    "Address3":"NEILSTOWN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":706418.41,
+    "ITMNorth":733043.008
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL TREASA",
+    "Address1":"BALLYCULLEN AVENUE",
+    "Address2":"FIRHOUSE",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710764.562,
+    "ITMNorth":726896
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT JOHN'S NATIONAL SCHOOL",
+    "Address1":"TOWER ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706960.132,
+    "ITMNorth":731367.083
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL MHUIRE PRIMARY SCHOOL",
+    "Address1":"AIRLIE HEIGHTS",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":702049.294,
+    "ITMNorth":734513.281
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"BISHOP SHANAHAN NATIONAL SCHOOL",
+    "Address1":"ROSSMORE ROAD",
+    "Address2":"TEMPLEOGUE",
+    "Address3":"DUBLIN 6W",
+    "Address4":null,
+    "ITMEast":712091.772,
+    "ITMNorth":728889.282
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DIVINE WORD NATIONAL SCHOOL",
+    "Address1":"GRANGE MANOR CLOSE",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":715140.799,
+    "ITMNorth":727364.681
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"MOYLE PARK COLLEGE",
+    "Address1":"CONVENT ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706775.977,
+    "ITMNorth":731199.503
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT BERNADETTES JUNIOR NATIONAL SCHOOL",
+    "Address1":"GREENFORT CRESCENT",
+    "Address2":"QUARRYVALE",
+    "Address3":"CLONDALKIN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":706667.114,
+    "ITMNorth":734465.052
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL CHRO? RO-NAOFA",
+    "Address1":"SAINT JOHN'S PARK EAST",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706470.059,
+    "ITMNorth":730550.559
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARY'S JUNIOR SCHOOL",
+    "Address1":"COLLINSTOWN ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706865.162,
+    "ITMNorth":733771.76
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"BELGARD NATIONAL SCHOOL",
+    "Address1":"COOKSTOWN ROAD",
+    "Address2":"SAGGART",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":707606.618,
+    "ITMNorth":728777.279
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"RATHFARNHAM PARISH NATIONAL SCHOOL",
+    "Address1":"WASHINGTON LANE",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 14",
+    "Address4":null,
+    "ITMEast":713103.694,
+    "ITMNorth":728353.452
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Address1":"WILLSBROOK ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":704829.018,
+    "ITMNorth":734598.699
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"WHITECHURCH NATIONAL SCHOOL",
+    "Address1":"WHITECHURCH ROAD",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":714571.818,
+    "ITMNorth":725999.13
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"BRITTAS NATIONAL SCHOOL",
+    "Address1":"BRITTAS",
+    "Address2":"CO. DUBLIN",
+    "Address3":null,
+    "Address4":null,
+    "ITMEast":703317.926,
+    "ITMNorth":721639.258
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL CARMEL",
+    "Address1":"FIRHOUSE ROAD",
+    "Address2":"FIRHOUSE",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710868.651,
+    "ITMNorth":727381.462
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT THOMAS' JUNIOR SCHOOL",
+    "Address1":"FORTUNESTOWN ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":706408.454,
+    "ITMNorth":726575.825
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT THOMAS' SENIOR SCHOOL",
+    "Address1":"FORTUNESTOWN ROAD",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":706487.252,
+    "ITMNorth":726584.251
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SAINT PIUS X GIRLS NATIONAL SCHOOL",
+    "Address1":"FORTFIELD PARK",
+    "Address2":"TERENURE",
+    "Address3":"DUBLIN 6W",
+    "Address4":null,
+    "ITMEast":712992.969,
+    "ITMNorth":729380.984
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"GRIFFEEN VALLEY EDUCATE TOGETHER",
+    "Address1":"GRIFFEEN VALLEY EDUCATE TOGETHER",
+    "Address2":"GRIFFEEN GLEN BOULEVARD",
+    "Address3":"GRIFFEEN VALLEY",
+    "Address4":"LUCAN",
+    "ITMEast":704298.216,
+    "ITMNorth":733488.537
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT BERNADETTES SENIOR NATIONAL SCHOOL",
+    "Address1":"GREENFORT CRESCENT",
+    "Address2":"QUARRYVALE",
+    "Address3":"CLONDALKIN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":706703.066,
+    "ITMNorth":734550.318
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARY'S BOYS NATIONAL SCHOOL",
+    "Address1":"GRANGE ROAD",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 14",
+    "Address4":null,
+    "ITMEast":714403.272,
+    "ITMNorth":728542.16
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT DOMINIC'S SCHOOL",
+    "Address1":"MOUNTAIN PARK",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":709524.51,
+    "ITMNorth":727440.13
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT KEVINS COMMUNITY COLLEGE",
+    "Address1":"FONTHILL ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706156.182,
+    "ITMNorth":734818.433
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"GLENASMOLE NATIONAL SCHOOL",
+    "Address1":"GLENASMOLE",
+    "Address2":"BOHERNABREENA",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":709615.202,
+    "ITMNorth":722936.124
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"GAELSCOIL NA CAN?IGE",
+    "Address1":"WATERY LANE",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":707062.856,
+    "ITMNorth":731581.184
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"COL?ISTE CHILLIAIN PRIMARY SCHOOL",
+    "Address1":"OLD NANGOR ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706420.548,
+    "ITMNorth":731585.525
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT MARTIN DE PORRES",
+    "Address1":"HEATHERVIEW LAWN",
+    "Address2":"AYLESBURY",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":708612.386,
+    "ITMNorth":726207.227
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT PAUL'S NATIONAL SCHOOL",
+    "Address1":"LIMEKILN LANE",
+    "Address2":"WHITEHALL ROAD WEST",
+    "Address3":"WALKINSTOWN",
+    "Address4":"DUBLIN 12",
+    "ITMEast":711399.942,
+    "ITMNorth":730034.292
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT ANN'S PRIMARY SCHOOL",
+    "Address1":"NEWCASTLE ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":703292.445,
+    "ITMNorth":734330.068
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"ADAMSTOWN CASTLE EDUCATE TOGETHER",
+    "Address1":"ADAMSTOWN CASTLE EDUCATE TOGETHER",
+    "Address2":"STATION ROAD",
+    "Address3":"ADAMSTOWN CASTLE",
+    "Address4":"LUCAN",
+    "ITMEast":702565.272,
+    "ITMNorth":732885.116
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SCOIL ?DE",
+    "Address1":"NEW ROAD",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":707125.475,
+    "ITMNorth":730875.875
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT ANNE'S NATIONAL SCHOOL",
+    "Address1":"KILCARRIG AVENUE",
+    "Address2":"FETTERCAIRN",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":707207.133,
+    "ITMNorth":727911.649
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SCOIL EANNA NASUINTA",
+    "Address1":"CASTLE PARK",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710271.479,
+    "ITMNorth":728193.13
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"COLLINSTOWN PARK COMMUNITY COLLEGE",
+    "Address1":"NEILSTOWN ROAD",
+    "Address2":"NEILSTOWN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706805.259,
+    "ITMNorth":733538.836
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT THOMAS'S PRIMARY SCHOOL",
+    "Address1":"NEWCASTLE ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":703267.383,
+    "ITMNorth":734281.621
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"SCOILEANNA NAISIUNTA AONGUSA NAOFA",
+    "Address1":"CASTLE PARK",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":710308.422,
+    "ITMNorth":728248.841
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT LORCANS",
+    "Address1":"THE OVAL",
+    "Address2":"PALMERSTOWN",
+    "Address3":"DUBLIN 20",
+    "Address4":null,
+    "ITMEast":708581.896,
+    "ITMNorth":734818.766
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL CHAITLIN MAUDE",
+    "Address1":"KNOCKMORE AVENUE",
+    "Address2":"KILLINARDEN",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":707163.05,
+    "ITMNorth":726295.443
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT PETER'S APOSTLE JUNIOR SCHOOL",
+    "Address1":"NEILSTOWN ROAD",
+    "Address2":"NEILSTOWN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706497.142,
+    "ITMNorth":733044.493
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Address1":"WILLSBROOK ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":704842.891,
+    "ITMNorth":734663.45
+  },
+  {
+    "Organisation":"DEPATMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT FINIANS NATIONAL SCHOOL",
+    "Address1":"MAIN STREET UPPER",
+    "Address2":"NEWCASTLE",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":699841.668,
+    "ITMNorth":728695.636
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"LUCAN EAST EDUCATE TOGETHER",
+    "Address1":"LUCAN EAST EDUCATE TOGETHER",
+    "Address2":"GRIFFEEN AVENUE",
+    "Address3":"LUCAN",
+    "Address4":"CO. DUBLIN",
+    "ITMEast":704389.757,
+    "ITMNorth":733153.906
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"BALLYROAN BOYS NATIONAL SCHOOL",
+    "Address1":"BALLYROAN ROAD",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":713722.183,
+    "ITMNorth":727593.243
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"KNOCKMORE JUNIOR SCHOOL",
+    "Address1":"KNOCKMORE AVENUE",
+    "Address2":"KILLINARDEN",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":707254.588,
+    "ITMNorth":726259.998
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"CLONBURRIS NATIONAL SCHOOL",
+    "Address1":"DUNAWLEY WAY",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":706500.182,
+    "ITMNorth":731900.016
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL NAOMH PADRAIG",
+    "Address1":"BALLYROAN CRESCENT",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":713340.479,
+    "ITMNorth":727575.132
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"LORETO PRIMARY SCHOOL",
+    "Address1":"GRANGE ROAD",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 14",
+    "Address4":null,
+    "ITMEast":714749.86,
+    "ITMNorth":728156.785
+  }
+]
