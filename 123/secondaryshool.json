@@ -1,0 +1,182 @@
+[
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SCOIL NAOMH MAELRUANS",
+    "Address1":"OLD BAWN AVENUE",
+    "Address2":"TALLAGHT",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":"709200.334",
+    "ITMNorth":"726528.533"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"LORETO HIGH SCHOOL",
+    "Address1":"LORETO HIGH SCHOOL",
+    "Address2":"GRANGE ROAD",
+    "Address3":"RATHFARNHAM",
+    "Address4":"DUBLIN 14",
+    "ITMEast":"714416.88",
+    "ITMNorth":"728275.321"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"COLAISTE PADRAIG",
+    "Address1":"ROSELAWN",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":"704333.553",
+    "ITMNorth":"735221.335"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Address1":"LUCAN ROAD OLD",
+    "Address2":"PALMERSTOWN",
+    "Address3":"DUBLIN 20",
+    "Address4":null,
+    "ITMEast":"707437.912",
+    "ITMNorth":"735504.321"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Address1":"BALLYROAN CRESCENT",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":"713422.539",
+    "ITMNorth":"727571.029"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"FIRHOUSE COMMUNITY COLLEGE",
+    "Address1":"FIRHOUSE ROAD",
+    "Address2":"DUBLIN 24",
+    "Address3":null,
+    "Address4":null,
+    "ITMEast":"710132.339",
+    "ITMNorth":"726369.563"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SANCTA MARIA COLLEGE",
+    "Address1":"BALLYROAN CRESCENT",
+    "Address2":"RATHFARNHAM",
+    "Address3":"DUBLIN 16",
+    "Address4":null,
+    "ITMEast":"713093.711",
+    "ITMNorth":"727388.741"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"COL�ISTE COIS LIFE",
+    "Address1":"CASTLE ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":"704153.099",
+    "ITMNorth":"734414.259"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"COL�ISTE DE H�DE",
+    "Address1":"TYMON ROAD",
+    "Address2":"TYMON NORTH",
+    "Address3":"DUBLIN 24",
+    "Address4":null,
+    "ITMEast":"710026.729",
+    "ITMNorth":"729154.958"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"GREENHILLS COLLEGE SECONDARY SCHOOL",
+    "Address1":"LIMEKILN AVENUE",
+    "Address2":"WALKINSTOWN",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":"710893.759",
+    "ITMNorth":"729925.402"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION & SCIENCE",
+    "Name":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Address1":"TEMPLEVILLE ROAD",
+    "Address2":"TEMPLEOGUE",
+    "Address3":"DUBLIN 6W",
+    "Address4":null,
+    "ITMEast":"712505.51",
+    "ITMNorth":"729537.564"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"LUCAN COMMUNITY COLLEGE",
+    "Address1":"ESKER DRIVE",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":"703218.923",
+    "ITMNorth":"734170.021"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT JOSEPH'S SECONDARY SCHOOL",
+    "Address1":"LUCAN ROAD",
+    "Address2":"LUCAN",
+    "Address3":"CO. DUBLIN",
+    "Address4":null,
+    "ITMEast":"703819.37",
+    "ITMNorth":"735339.234"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"COL�ISTE BR�DE",
+    "Address1":"COL�ISTE BR�DE",
+    "Address2":"NEW ROAD",
+    "Address3":"CLONDALKIN",
+    "Address4":"DUBLIN 22",
+    "ITMEast":"707336.18",
+    "ITMNorth":"730969.253"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"POBAILSCOIL IOSOLDE",
+    "Address1":"OAKCOURT AVENUE",
+    "Address2":"PALMERSTOWN",
+    "Address3":"DUBLIN 20",
+    "Address4":null,
+    "ITMEast":"708065.936",
+    "ITMNorth":"734366.296"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"SAINT PAUL'S SECONDARY SCHOOL",
+    "Address1":"SAINT JOSEPH'S ROAD",
+    "Address2":"GREENHILLS",
+    "Address3":"DUBLIN 12",
+    "Address4":null,
+    "ITMEast":"711163.108",
+    "ITMNorth":"729916.2"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"DEANSRATH COMMUNITY COLLEGE",
+    "Address1":"WESTBOURNE RISE",
+    "Address2":"CLONDALKIN",
+    "Address3":"DUBLIN 22",
+    "Address4":null,
+    "ITMEast":"705229.255",
+    "ITMNorth":"731595.268"
+  },
+  {
+    "Organisation":"DEPARTMENT OF EDUCATION AND SCIENCE",
+    "Name":"KILLINARDEN COMMUNITY SCHOOL",
+    "Address1":"KILLINARDEN HEIGHTS",
+    "Address2":"KILLINARDEN",
+    "Address3":"TALLAGHT",
+    "Address4":"DUBLIN 24",
+    "ITMEast":"706887.046",
+    "ITMNorth":"726282.544"
+  }
+]
