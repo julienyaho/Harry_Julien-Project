@@ -1,142 +1,162 @@
+// Import express to create and configure the HTTP server.
 var express = require('express');
+// Import body parser to work with POST data
+var bodyParser = require('body-parser');
+
+// Create a HTTP server app.
+var app = express();
 var path = require('path');
-var favicon = require('serve-favicon');
+//var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var routes = require('./routes/index');
-var users = require('./routes/users');
-
-var app = express();
-
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
+app.use(bodyParser.json()); // support json encoded bodies
+app.use(bodyParser.urlencoded({ extended: true })); // 
 app.set('view engine', 'ejs');
+// get data from json into array
+var fs = require('fs');
 
-// uncomment after placing your favicon in /public
-//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
-app.use(logger('dev'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
-
-app.use('/', routes);
-app.use('/users', users);
-app.use('/primary',routes);
-
-
-// catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  var err = new Error('Not Found');
-  err.status = 404;
-  next(err);
-});
-
-// error handlers
-
-// development error handler
-// will print stacktrace
-if (app.get('env') === 'development') {
-  app.use(function(err, req, res, next) {
-    res.status(err.status || 500);
-    res.render('error', {
-      message: err.message,
-      error: err
-    });
-  });
-}
-
-// production error handler
-// no stacktraces leaked to user
-app.use(function(err, req, res, next) {
-  res.status(err.status || 500);
-  res.render('error', {
-    message: err.message,
-    error: {}
-  });
-});
-/*
 var mongo = require('mongodb'),
     Server = mongo.Server,
     Db = mongo.Db;
-
 var server = new Server('localhost',27017, {auto_reconnect: true});
+//console.log(data);
 var db = new Db('schools', server);
-
 db.open(function(err, db) {
-  if(!err) {
-    console.log("We are connected");
-  }
+    if(!err) {
+        console.log("We are connected");
+    }
+});
+ var db1 = db.collection('primaryschool');
+    var db2 = db.collection('secondaryschool');
+    var db3 = db.collection('wholeschool');
+//var rrr=db.collection("primaryschool");
+var school = function(Organisation , Name, Address1, Address2, Address3, Address4, ITMEast, ITMNorth){
+   // this._id = (_id) ? _id : 0;
+    this.Organisation = (Organisation) ? Organisation : "null";
+    this.Name = (Name) ? Name : "null";
+    this.Address1 = (Address1) ? Address1 : "null"; // for transparent
+    this.Address2 = (Address2) ? Address2 : "null";
+    this.Address3 = (Address3) ? Address3 : "null";
+    this.Address4 = (Address4) ? Address4 : "null";
+    this.ITMEast = (ITMEast) ? ITMEast : "0.000";
+    this.ITMNorth = (ITMNorth) ? ITMNorth : "0.000";
+}
+
+app.get('/', function(req, res, next) {
+    res.render('index', { title: 'Express' });
 });
 
-app.use('/show',routes);
-
-var data;
-
-db.open(function(err, db) {
-  if(!err) {
-    console.log("We are connected");
-    db.collection('primaryschool', function(err, collection){
-
-            collection.find().toArray(function(error, bars){
-             console.log(bars);
-
-          }
-      );
-    //  collection.find({id:1}).toArray(function(error, bars){console.log(bars);});
-      //collection.findOne({Address4:null}, function(error, bar){console.log(bar)});
+app.get('/primary',function(req,res){
+    db.collection('primaryschool', function(err, collection) {
+        collection.find().toArray(function (err,ppp) {
+           res.json(ppp);
+        });
     });
-  }
 });
-/*
 
-app.post('/primaryschool',
-    function (req, res){
-      var primaryschoolId =  (req.body.id) ? req.body.id : 0;
-      db.serialize(function(){
-        db.each(
-            "db.primaryschool.find({id="+ primaryschoolId+"}) " ,
-            function(err, row) {
-              var primaryschool  = new primaryschool(
-                  row._id , row.Organisation, row.Name, row.Address1, row.Address2, row.Address3, row.Address4, row.ITMEast, row.ITMNorth );
+app.get('/secondary',function(req,res) {
+    db.collection('secondaryschool', function (err, collection) {
+        collection.find().toArray(function (err, sss) {
+            res.json(sss);
+        });
+    });
+});
+app.get('/wholeschool/Name/:Name',function(req,res){
+    var w=req.params.Name;
+    
+        db3.find({Name:w}).toArray(function (err, bar) {
+            res.json(bar);
+        });
+//    res.json(db1[req.params.ITMEast]);
+});
+app.get('/primary/ITMEast/:ITMEast',function(req,res){
+    var i=req.params.ITMEast;
+    db.collection('primaryschool', function (err, collection) {
+        collection.find({ITMEast:i}).toArray(function (err, bar) {
+            res.json(bar);
+        });
+    });
 
+//    res.json(db1[req.params.ITMEast]);
+});
+app.get('/allschool',function(req,res) {
+ db.collection('wholeschool', function (err, collection) {
+        collection.find().toArray(function (err, bar) {
+            res.json(bar);
+        });
+    });
+});
 
-              if (typeof(row) == "object"){
-                return res.json(primaryschool);
-              }
-              else{
-                return res.json("Error");
-              }
+app.post('/POST',function (req, res){
+		var school1=new school(req.body.Organisation,req.body.Name,req.body.Address1,req.body.Address2,req.body.Address3,req.body.Address4,req.body.ITMEast,req.body.ITMNorth);
+		console.log(school1);
+			db.collection("wholeschool",function(err,collection){
+				collection.save(school1);
+			})
+		});
 
-            });
+app.put('/PUT',function (req, res){
+		var school1=new school(req.body.Organisation,req.body.Name,req.body.Address1,req.body.Address2,req.body.Address3,req.body.Address4,req.body.ITMEast,req.body.ITMNorth);
+		console.log(school1);
+		
+		db.collection("wholeschool",function(err,collection){
+			if(req.body.Name!=collection.Name){
+				collection.save(school1);
+			}else{
+				console.log(err);
+			}
+			})
+		});
 
-      });
-    }
-);
+app.delete('/DELETE',
+	function (req, res){
+		var Name11 = req.body.Name;
+		
+			db3.remove({Name:Name11});
+				
+			
+					
+			});
+			
+app.post('/school',function (req, res){
+	
+		var schoolName =  (req.body.Name) ? req.body.Name : null;
+		console.log(schoolName+"------");
+		 
+				db3.find({Name:schoolName}).toArray(function (err, row) {
+				
+				console.log(row[0].Organisation);
+					console.log("-----------hereS----------");
+					var school11  = new school(
+									row[0].Organisation, row[0].Name, row[0].Address1, row[0].Address2, row[0].Address3, row[0].Address4, row[0].ITMEast, row[0].ITMNorth);
+				
+					if (typeof(row) == "object"){						
+						return res.json(school11);
+					}						
+					else{
+						return res.json("Error");
+					}
+				
+			});
 
-app.get('/GET/:primaryschoolID',
-    function (req, res){
-      var primaryschoolId = (req.params.primaryschoolID) ? req.params.primaryschoolID :  req.body.id;
-
-      db.serialize(function(){
-        db.each(
-            "db.primaryschool.find({id="+ primaryschoolId+"}) ",
-            function(err, row) {
-              var primaryschool  = new primaryschool(
-                  row._id , row.Organisation, row.Name, row.Address1, row.Address2, row.Address3, row.Address4, row.ITMEast, row.ITMNorth );
-              db.collection('primaryschool', function(err, collection) {
-                console.log(primaryschool);
-                res.json(primaryschool);
-                collection.find();
-              });
-            });
-
-      });
-    }
-);
-
-*/
-app.listen(3000);
-module.exports = app;
+		});		
+		
+app.get('/GET/:schoolName',
+	function (req, res){
+		var sName = (req.params.schoolName) ? req.params.schoolName :  req.body.Name;
+	
+		
+		db3.find({Name:sName}).toArray(function(err, row) {
+					var school11  = new school(
+									 row._id,row.Organisation, row.Name, row.Address1, row.Address2, row.Address3, row.Address4, row.ITMEast, row.ITMNorth);
+					console.log(school11);									
+					res.json(school11);			
+			  });
+			
+		});		
+	
+app.use(express.static(__dirname + '/public'));
+// Start the server.
+var server = app.listen(3000);
